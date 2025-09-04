@@ -1,18 +1,20 @@
-\# 👋 Hey! I'm Eshwar  
+\# 👋 Hey! I'm Eshwar Chandra 
 
 
 
-🎓 I’m currently a 2nd-year Computer Science student  
+🎓 \*\*2nd-year Computer Science Student\*\*  
 
-📊 Interested in \*\*Quant Finance\*\*, \*\*Software Development\*\*, and \*\*AI\*\*  
+📊 \*\*Interests:\*\* Quant Finance, Software Development, AI  
 
-🌱 Currently learning \*\*DSA, Python, and Quantitative Trading\*\*  
+🌱 \*\*Currently Learning:\*\* DSA, Python, Quantitative Trading  
 
-💡 Love building projects that combine \*\*tech + finance\*\*  
+💡 \*\*Passion:\*\* Building projects that combine tech + finance  
 
-📫 Reach me at: \[LinkedIn](https://www.linkedin.com/in/eshwar-yadav-a0a678316)
+📫 \*\*Reach me at:\*\* \[LinkedIn](https://www.linkedin.com/in/eshwar-yadav-a0a678316) | ✉️ eshwarchandra.29@gmail.com  
 
-\_\_\_
+
+
+---
 
 
 
@@ -20,9 +22,13 @@
 
 
 
-\[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin\&style=flat-square)](https://www.linkedin.com/in/eshwar-yadav-a0a678316)
+\[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin\&style=for-the-badge)](https://www.linkedin.com/in/eshwar-yadav-a0a678316)
 
-\[!\[Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail\&style=flat-square)](eshwarchandra.29@gmail.com)
+\[!\[Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail\&style=for-the-badge)](mailto:eshwarchandra.29@gmail.com)
+
+\[!\[GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github\&style=for-the-badge)](https://github.com/EshwarYadav29)
 
 
+
+---
 
